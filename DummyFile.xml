@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="3sat.de"><display-name>3sat DE</display-name><icon src="https://static.epg.best/de/3sat.de.png"/></channel>
+
+<channel id="allgaeutv.de"><display-name>allgäu.tv DE</display-name><icon src="https://static.epg.best/de/allgaeutv.de.png"/></channel>
+
+<channel id="Anixe.de"><display-name>Anixe DE</display-name><icon src="https://static.epg.best/de/Anixe.de.png"/></channel>
+
+<channel id="AnixePlus.de"><display-name>Anixe+ DE</display-name><icon src="https://static.epg.best/de/AnixePlus.de.png"/></channel>
+
+<channel id="ARD.de"><display-name>Das Erste DE</display-name><icon src="https://static.epg.best/de/ARD.de.png"/></channel>
+
+<programme start="20230312040300 +0100" stop="20230312044700 +0100" channel="3sat.de">
+    <title lang="de">Wilde Inseln: Falklandinseln</title>
+    <desc lang="de">Mitten im rauen Südatlantik, rund 400 Kilometer östlich der südamerikanischen Küste, liegen die Falklandinseln, eine Gruppe aus einigen großen und über 700 kleinen und kleinsten Inseln.Weit entfernt von den Kontinenten bieten sie bis heute eine fast unberührte Natur, zumal viele der Inseln nie von Menschen besiedelt wurden. An den meist rauen und felsigen Küsten brüten unzählige Vögel. Vor allem Pinguine fühlen sich dort wohl</desc>
+    <credits>
+      <director>Richard Kirby</director>
+      <director>Colin Collis</director>
+      <producer>Allison Bean</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="de">Dokumentation</category>
+    <category lang="de">Natur und Tiere</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/9/p9959398_e_h9_aa.jpg"/>
+    <country>GB</country>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+<programme start="20230312044700 +0100" stop="20230312053000 +0100" channel="3sat.de">
+    <title lang="de">Wildes Pantanal</title>
+    <sub-title lang="de">Am letzten Wasserloch</sub-title>
+    <desc lang="de">Das Pantanal im Südwesten Brasiliens ist eines der größten und artenreichsten Feuchtbiotope der Erde. Der zweiteilige Film stellt die Tierwelt dort vor. Teil eins blickt aufs Wasser.An einem verborgenen Waldsee lassen sich fast alle Bewohner des Pantanals beobachten. In der Trockenzeit wird der See zu einer Oase, an der Tapire, Ameisenbären und auch Kuhherden der brasilianischen Cowboys Wasser und Abkühlung finden</desc>
+    <date>2012</date>
+    <category lang="de">Dokumentation</category>
+    <category lang="de">Natur und Tiere</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/6/p9630714_e_h9_aa.jpg"/>
+    <country>US</country>
+  </programme>
+<programme start="20230312053000 +0100" stop="20230312061500 +0100" channel="3sat.de">
+    <title lang="de">Wildes Pantanal</title>
+    <sub-title lang="de">Jaguar-Land</sub-title>
+    <desc lang="de">Im Pantanal, dem großen, artenreichen Feuchtgebiet Brasiliens, leben noch ungewöhnlich viele Jaguare. Diese Dokumentation folgt den faszinierenden Großkatzen bei der alltäglichen Jagd, dem Revierkampf und den Kinderspielen</desc>
+    <date>2012</date>
+    <category lang="de">Dokumentation</category>
+    <category lang="de">Natur und Tiere</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/3/p9399014_e_h9_aa.jpg"/>
+    <country>US</country>
+  </programme>
+<programme start="20230312061500 +0100" stop="20230312064500 +0100" channel="3sat.de">
+    <title lang="de">Die magische Welt der Bäume - Die Lärche</title>
+    <desc lang="de">Die Sendung wirft einen genaueren Blick auf die zu den Nadelbäumen gehörende Baumart "Lärche"</desc>
+    <date>2021</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/1/p21096996_e_h9_aa.jpg"/>
+    <country>DE</country>
+  </programme>
+<programme start="20230312064500 +0100" stop="20230312071500 +0100" channel="3sat.de">
+    <title lang="de">Die magische Welt der Bäume - Die Linde</title>
+    <desc lang="de">Im Mittelpunkt steht die Baumart "Linde", die über eine unvergleichliche Heilkraft verfügt</desc>
+    <date>2021</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/1/p21096486_e_h9_aa.jpg"/>
+    <country>DE</country>
+  </programme>
+<programme start="20230312071500 +0100" stop="20230312074000 +0100" channel="3sat.de">
+    <title lang="de">Die magische Welt der Bäume - Die Eiche</title>
+    <desc lang="de">Niemand baut mehr Schiffe aus Eichenholz. In Möbelhäusern sucht man Eichenholzmöbel vergebens. Die Eiche scheint ausgedient zu haben. In Wirklichkeit ist sie jedoch der Baum der Zukunft. Diese Dokumentation befasst sich mit der Eiche</desc>
+    <credits>
+      <director>Ulf Marquardt</director>
+    </credits>
+    <date>2021</date>
+    <category lang="de">Dokumentation</category>
+    <category lang="de">Natur und Tiere</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/1/p21096476_e_h9_aa.jpg"/>
+    <country>DE</country>
+  </programme>
+<programme start="20230312074000 +0100" stop="20230312081000 +0100" channel="3sat.de">
+    <title lang="de">Die magische Welt der Bäume - Die Edelkastanie</title>
+    <desc lang="de">Im Vorsommer erfreut die Kastanie das Auge mit ihrer Blütenpracht im Herbst mit goldgelben Blättern. Lange Zeit war sie als Nahrungsquelle für die Bewohner der Alpensüdseite unentbehrlich. Diese Dokumentation befasst sich mit der Edelkastanie</desc>
+    <date>2021</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/1/p21096468_e_h9_aa.jpg"/>
+    <country>DE</country>
+  </programme>
+<programme start="20230312081000 +0100" stop="20230312085000 +0100" channel="3sat.de">
+    <title lang="de">Die geheimnisvolle Welt der Bäume -</title>
+    <desc lang="de">Bäume sind nicht einfach Bäume, sie waren schon vor Jahrhunderten da und werden oft noch Jahrhunderte überleben; sie haben sozusagen Geschichte erlebt. Den Menschen war das immer bewusst, nicht zuletzt werden viele Bäume als Heiligtümer verehrt. Sie sind aber auch Lebensraum für viele Tiere und sie liefern wertvollste Rohstoffe vom Holz über heilsame Lindeblüten bis zum antibakteriell wirkenden Harz</desc>
+    <credits>
+      <director>Alfred Ninaus</director>
+      <producer>Alfred Ninaus</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="de">Dokumentation</category>
+    <category lang="de">Natur und Tiere</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/2/p12860826_i_h9_ac.jpg"/>
+    <country>DE</country>
+  </programme>
+<programme start="20230312085000 +0100" stop="20230312093500 +0100" channel="3sat.de">
+    <title lang="de">Geheimnisvolle Eichhörnchen</title>
+    <desc lang="de">Europäische Eichhörnchen, die quirligen Baumtänzer, sind sichtbar und unsichtbar zugleich. Mit ihrer roten, braunen, grauen und bisweilen schwarzen Färbung sind sie überall gern gesehen und doch führen sie zumeist ein verborgenes Leben</desc>
+    <credits>
+      <director>Franz Fuchs</director>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17527389_i_h9_ac.jpg"/>
+    <country>AT</country>
+    <country>FR</country>
+  </programme>
+<programme start="20230312093500 +0100" stop="20230312102000 +0100" channel="3sat.de">
+    <title lang="de">Wildschweine - Das Comeback</title>
+    <desc lang="de">Sie sind die Schweizer Messer unter den Tieren: kompakt, unverwüstlich und für alle Fälle gewappnet. Im vorletzten Jahrhundert galten Wildschweine in Europa als ausgerottet. Nun leben wieder mehrere Millionen Tiere in den europäischen Wäldern. Und das hauptsächlich aufgrund ihrer speziellen Eigenschaften: soziale Kompetenz und Anpassungsfähigkeit. Der friedliche Waldbewohner wird dabei völlig unterschätzt</desc>
+    <credits>
+      <director>Astrid Miller</director>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Dokumentation</category>
+    <category lang="de">Natur und Tiere</category>
+    <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15557609_i_h9_aa.jpg"/>
+    <country>DE</country>
+  </programme>
+
+</tv>
